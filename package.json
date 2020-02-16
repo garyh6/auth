@@ -6,7 +6,11 @@
     "dev": "nodemon -r esm server.js"
   },
   "dependencies": {
+<<<<<<< HEAD
     "bcryptjs": "^2.4.3",
+=======
+    "body-parser": "^1.19.0",
+>>>>>>> c45af3067b41324a6cde17b545af64bab474b0f4
     "cors": "^2.8.5",
     "esm": "^3.2.25",
     "express": "^4.17.1",
